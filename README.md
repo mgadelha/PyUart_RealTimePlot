@@ -8,3 +8,6 @@ https://developer.mbed.org/users/mgsilveira/code/FRDM_MMA8451Q/
 
 A aplicação foi testada no ambiente Windows (executar a aplicação como adm do sistema).
 
+https://cloud.githubusercontent.com/assets/4259581/10560356/4e66de18-74df-11e5-806c-cdd5d24e1406.png
+
+https://cloud.githubusercontent.com/assets/4259581/10560360/63ee3f6a-74df-11e5-8a76-7625ad19dfc2.jpg
