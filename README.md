@@ -6,3 +6,5 @@ O objetivo dessa aplicação é efetuar a plotagem em tempo real dos dados do ac
 O Coddigo utilzado para a aplicação no microcontrolador se encontra no link:
 https://developer.mbed.org/users/mgsilveira/code/FRDM_MMA8451Q/
 
+A aplicação foi testada no ambiente Windows (executar a aplicação como adm do sistema).
+
