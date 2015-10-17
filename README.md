@@ -12,4 +12,3 @@ A aplicação foi testada no ambiente Windows (executar a aplicação como adm d
 
 ![Alt text](https://cloud.githubusercontent.com/assets/4259581/10560356/4e66de18-74df-11e5-806c-cdd5d24e1406.png)
 
-
