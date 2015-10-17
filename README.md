@@ -3,5 +3,6 @@ Aplicação em python de plotagem em tempo real utilizando a saida serial do mic
 
 O objetivo dessa aplicação é efetuar a plotagem em tempo real dos dados do acelerometro do kit KL25Z da Freescale. A aplicação foi desenvolvida utilizando Python + PyQt4.
 
+O Coddigo utilzado para a aplicação no microcontrolador se encontra no link:
+https://developer.mbed.org/users/mgsilveira/code/FRDM_MMA8451Q/
 
-file:///media/mauricio/3236-965B/plotuart.png
